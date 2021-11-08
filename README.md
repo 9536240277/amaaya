@@ -1,0 +1,2 @@
+# amaaya
+Password strength checker
